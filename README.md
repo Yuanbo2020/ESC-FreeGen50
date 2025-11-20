@@ -14,6 +14,8 @@ Building upon the ESC-50 category system, the extended dataset constructed in th
 - **10 clips** manually selected from public field recordings such as Freesound.org.
 - **50 clips** synthesized using AudioLDM2.
 
+![dataset_pie](assets/dataset_pie.jpg)
+
 This composition adheres to the original specifications and has been verified through manual listening to ensure the sound features align with the semantic labels. To reduce label noise and interference from multiple events, each audio clip in the dataset is constrained to contain **one single salient audio event**. We utilized manual screening to strictly enforce this constraint.
 
 ## Data Sources
